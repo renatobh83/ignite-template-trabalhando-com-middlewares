@@ -21,17 +21,16 @@ Nessa aplicacao é possivel controlar usuario em planos free colocar ate 10 todo
 
 ```bash
  # clone repository
-  git clone https://github.com/renatobh83/ignite-template-conceitos-do-nodejs..git
+  git clone https://github.com/renatobh83/ignite-template-trabalhando-com-middlewares.git
 
   # enter web folder
-  cd ignite-template-conceitos-do-nodejs.
+  cd ignite-template-trabalhando-com-middlewares
+  
   # download dependencies
   yarn
 
   # running / dev:
   yarn dev
-
-
 
   # run tests
   yarn test
